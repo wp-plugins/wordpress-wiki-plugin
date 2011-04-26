@@ -4,7 +4,7 @@ Author: WPMUDEV
 Description: Add a wiki to your blog.
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
-Tested up to: 3.1.1
+Tested up to: 3.1.2
 Stable tag: 1.0.0
 
 Add a wiki to your blog.
