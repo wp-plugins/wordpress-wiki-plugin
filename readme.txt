@@ -90,5 +90,8 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Fix: wiki -> wordpress-wiki-plugin
+
+= 1.0.0 =
 * Initial release.
