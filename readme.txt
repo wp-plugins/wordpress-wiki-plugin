@@ -1,17 +1,17 @@
 === Wiki lite ===
 Contributors: WPMUDEV
 Author: WPMUDEV
-Description: Add a wiki to your blog.
+Description: Create a wiki as easily as adding a post
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
 Tested up to: 3.1.2
 Stable tag: 1.0.0
 
-Add a wiki to your blog.
+Create a wiki as easily as adding a post
 
 == Description ==
 
-Wiki allows you to transform your WordPress site into a fully functional wiki or add wiki pages to your WordPress blog.
+WordPress Wiki Lite allows you to transform your WordPress site into a fully functional wiki or add wiki pages to your WordPress blog.
 
 = You can use Wiki lite to create... =
 * A WordPress based Wiki site
@@ -49,7 +49,7 @@ We have put together an in-depth <a href='http://premium.wpmudev.org/project/wor
 **Standard WP/WPMS (for blog by blog access)**
 
 1. Upload the wiki folder and all it contents to /wp-content/plugins folder on your site
-2. The path to the main plugin file is wp-content/plugins/wiki/wiki.php
+2. The path to the main plugin file is wp-content/plugins/wordpress-wiki-plugin/wiki.php
 
 **To activate it on a blog by blog basis**
 

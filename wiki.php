@@ -5,7 +5,7 @@
  Description: Add a wiki to your blog
  Author: S H Mohanjith (Incsub)
  WDP ID: 168
- Version: 1.0.0
+ Version: 1.0.1
  Author URI: http://premium.wpmudev.org
 */
 /**
@@ -1268,7 +1268,7 @@ class Wiki {
 	    load_plugin_textdomain($this->translation_domain, false, dirname(plugin_basename(__FILE__)).'/languages');
 	}
 	
-	wp_register_script('incsub_wiki_js', plugins_url('wiki/js/wiki-utils.js'), null, $this->current_version);
+	wp_register_script('incsub_wiki_js', plugins_url('wordpress-wiki-plugin/js/wiki-utils.js'), null, $this->current_version);
 	
 	$labels = array(
 	    'name' => __('Wikis', $this->translation_domain),
@@ -1339,7 +1339,7 @@ class Wiki {
      * Output CSS
      */
     function output_css() {
-        echo '<link rel="stylesheet" href="' . plugins_url('wiki/css/style.css') . '" type="text/css" />';
+        echo '<link rel="stylesheet" href="' . plugins_url('wordpress-wiki-plugin/css/style.css') . '" type="text/css" />';
     }
     
     function output_js() {
