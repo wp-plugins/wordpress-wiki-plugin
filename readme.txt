@@ -87,6 +87,9 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 3. Frontend edit screen
 4. Edit Wiki in Admin Dashboard 
 
+== Upgrade Notice ==
+Up the version to work with update plugin.
+
 == Changelog ==
 
 = 1.0.3 =
