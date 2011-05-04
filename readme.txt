@@ -1,7 +1,6 @@
 === Wiki lite ===
 Contributors: WPMUDEV
 Author: WPMUDEV, mohanjith
-Description: Create a wiki as easily as adding a post
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
 Tested up to: 3.1.2
