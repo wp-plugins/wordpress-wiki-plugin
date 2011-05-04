@@ -27,7 +27,7 @@ class Wiki {
      *
      * @var		string	$current_version	Current version
      */
-    var $current_version = '1.0.0';
+    var $current_version = '1.0.1';
     /**
      * @var		string	$translation_domain	Translation domain
      */

@@ -5,7 +5,7 @@ Description: Create a wiki as easily as adding a post
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
 Tested up to: 3.1.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Create a wiki as easily as adding a post
 
