@@ -4,9 +4,9 @@
  Plugin URI: http://premium.wpmudev.org/project/wiki
  Description: Add a wiki to your blog
  Author: S H Mohanjith (Incsub)
- WDP ID: 168
- Version: 1.0.3
- Stable tag: 1.0.3
+ WDP ID: 225
+ Version: 1.0.4
+ Stable tag: 1.0.4
  Author URI: http://premium.wpmudev.org
 */
 /**

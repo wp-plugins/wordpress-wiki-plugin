@@ -4,7 +4,7 @@ Author: WPMUDEV, mohanjith
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
 Tested up to: 3.1.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Create a wiki as easily as adding a post
 
@@ -91,6 +91,9 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 Up the version to work with update plugin.
 
 == Changelog ==
+
+= 1.0.4 =
+* New WPIDs
 
 = 1.0.3 =
 * Up the version to work with update plugin
