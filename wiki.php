@@ -6,7 +6,7 @@
  Author: S H Mohanjith (Incsub)
  WDP ID: 225
  Version: 1.0.4
- Stable tag: 1.0.4
+ Stable tag: trunk
  Author URI: http://premium.wpmudev.org
 */
 /**
