@@ -92,6 +92,9 @@ Up the version to work with update plugin.
 
 == Changelog ==
 
+= 1.0.5 =
+* Fixed: Page formatting for Wiki in Blogsmu
+
 = 1.0.4 =
 * New WPIDs
 
