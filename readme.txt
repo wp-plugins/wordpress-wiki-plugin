@@ -1,4 +1,4 @@
-=== Wiki Lite ===
+=== Wiki ===
 Contributors: WPMUDEV, mohanjith
 Author: WPMUDEV, mohanjith
 Tags: wiki, buddypress, frontend editing
