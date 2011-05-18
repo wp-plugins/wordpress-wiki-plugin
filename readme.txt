@@ -94,6 +94,8 @@ Up the version to work with update plugin.
 
 = 1.0.5 =
 * Fixed: Page formatting for Wiki in Blogsmu
+* Fixed: Wiki revision compare error
+* Fixed: Wiki create issue when no permalink is not set
 
 = 1.0.4 =
 * New WPIDs
