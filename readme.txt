@@ -10,22 +10,22 @@ Create a wiki as easily as adding a post
 
 == Description ==
 
-WordPress Wiki Lite allows you to transform your WordPress site into a fully functional wiki or add wiki pages to your WordPress blog.
+WordPress Wiki Lite transforms your WordPress website into a fully functional wiki or add wiki pages to your WordPress blog.
 
 = You can use Wiki lite to create... =
 * A WordPress based Wiki site
-* Multiple Wiki sites on a WordPress MultiSite install - so any user of your site can have their own Wiki site.
+* Multiple Wiki sites on a WordPress MultiSite install - so any user of your site can have their own Wiki.
 
 = Wiki Pro =
 Wiki lite is a fully functional but limited version of our <a href='http://premium.wpmudev.org/project/wordpress-wiki'>full Wiki plugin</a>.
-This lite version supports creating and editing of Wikis by users who can edit posts in your blog. Users can edit wiki from the frontend
+This lite version supports creating and editing of Wikis by users who can edit posts in your blog. Users can edit the Wiki from the frontend
 as well as the Admin Dashboard.
 
 Our full version includes many more features:
 
-* **Allow anyone** edit wikis from frontend
-* **Allow anyone from the network** edit wikis
-* **Allow site users** edit wikis
+* **Allow anyone** to edit wikis from frontend
+* **Allow anyone from the network** to edit wikis
+* **Allow site users** to edit wikis
 
 <a href='http://premium.wpmudev.org/project/wordpress-wiki'>**Upgrade to the full version now &raquo;**</a>
 
@@ -33,10 +33,9 @@ Our full version includes many more features:
 
 Simply follow the instructions in the installation and configuration guide
 
-You'll then be able to create Wikis from the Admin Dashboard. After the first wiki is created you can create sub wikis from the frontend if you
-have the capability to edit posts.
+You'll then be able to create Wikis from the Admin Dashboard. After the first Wiki is created users with post editing capabilities can create sub-Wikis from the frontend.
 
-We have put together an in-depth <a href='http://premium.wpmudev.org/project/wordpress-wiki/installation/'>instructions guide</a> to help you through using standard WordPress categories to mark posts / content as being accessible to either free users or members only, and then go into some of the more advanced features that allow you to protect individual uploads and distinct sections of a posts content.
+We have put together an in-depth <a href='http://premium.wpmudev.org/project/wordpress-wiki/installation/'>instruction guide</a> to help you through using standard WordPress categories to mark posts / content as being accessible to either free users or members only, and then go into some of the more advanced features that allow you to protect individual uploads and distinct sections of a posts content.
 
 == Installation ==
 
@@ -76,7 +75,7 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 == Frequently Asked Questions ==
 
 = How easy is it to set up? =
-We have an indepth step by step guide to getting the plugin initially setup and configured <a href='http://premium.wpmudev.org/project/wordpress-wiki/installation/'>here</a>.
+We have an indepth step by step guide to getting the plugin setup and configured <a href='http://premium.wpmudev.org/project/wordpress-wiki/installation/'>here</a>.
 
 = Get Support =
 We provide comprehensive and guaranteed support on the <a href='http://premium.wpmudev.org/forums/tags/wordpress-wiki'>WPMU DEV forums</a> and <a href='http://premium.wpmudev.org/live-support/'>live chat</a> only.
