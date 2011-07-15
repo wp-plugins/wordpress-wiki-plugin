@@ -91,6 +91,10 @@ Up the version to work with update plugin.
 
 == Changelog ==
 
+= 1.0.6 =
+* Remove update notifier
+* Widget fix
+
 = 1.0.5 =
 * Fixed: Page formatting for Wiki in Blogsmu
 * Fixed: Wiki revision compare error
