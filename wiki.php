@@ -1955,4 +1955,3 @@ class WikiAdmin {
 }
 
 $wiki = new Wiki();
-
