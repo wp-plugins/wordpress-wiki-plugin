@@ -1232,18 +1232,43 @@ class Wiki {
 	<div class="wrap">
 	    <h2><?php _e('Wiki Settings', $this->translation_domain); ?></h2>
 	    <form method="post" action="edit.php?post_type=incsub_wiki&amp;page=incsub_wiki">
-	    <?php wp_nonce_field('incsub_wiki-update-options'); ?>
-	    <table>
-		    <tr valign="top">
-			    <td><label for="incsub_wiki-slug"><?php _e('Wiki Slug', $this->translation_domain); ?></label> </td>
-			    <td> /<input type="text" size="20" id="incsub_wiki-slug" name="wiki_default[slug]" value="<?php print $this->_options['default']['slug']; ?>" /></td>
-		    </tr>
-	    </table>
-	    
-	    <p class="submit">
-		<input type="submit" name="submit_settings" value="<?php _e('Save Changes', $this->translation_domain) ?>" />
-	    </p>
-	</form>
+		    <?php wp_nonce_field('incsub_wiki-update-options'); ?>
+		    <table>
+			    <tr valign="top">
+				    <td><label for="incsub_wiki-slug"><?php _e('Wiki Slug', $this->translation_domain); ?></label> </td>
+				    <td> /<input type="text" size="20" id="incsub_wiki-slug" name="wiki_default[slug]" value="<?php print $this->_options['default']['slug']; ?>" /></td>
+			    </tr>
+		    </table>
+		    
+		    <p class="submit">
+			<input type="submit" name="submit_settings" value="<?php _e('Save Changes', $this->translation_domain) ?>" />
+		    </p>
+	    </form>
+
+<div style="-moz-border-radius: 5px;-khtml-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;border: 1px solid #F6C600;background-color: #FFFFC4;padding: 5px 20px;margin: 5px 0px 10px;font-size: 110%;">
+	<h3><a href="https://premium.wpmudev.org/subscribe/">Join WPMU DEV now to download over 300 plugins, themes and videos - and get and the best WordPress support on the web!</a></h3>
+	<div class="vzaar_media_player" style="float:left;margin-left:50px;">
+		<object id="video" type="application/x-shockwave-flash" data="http://view.vzaar.com/572452.flashplayer" height="284" width="486"><param name="movie" value="http://view.vzaar.com/572452.flashplayer"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="wmode" value="transparent"><param name="flashvars" value="border=none"><embed src="http://view.vzaar.com/572452.flashplayer" type="application/x-shockwave-flash" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" flashvars="border=none" height="284" width="486"><video src="http://view.vzaar.com/572452.mobile" poster="http://view.vzaar.com/572452.image" controls="controls" onclick="this.play();" height="720" width="1280"></video></object>
+	</div>
+
+	<div style="float:left;margin-left:50px;">
+	<h3>As a member of WPMU DEV you get:</h3>
+	<ul>
+		<li><strong>Unlimited</strong> use of our 300+ plugins & themes, forever!</li>
+		<li>Over 35 white label video manuals for you, your users and clients</li>
+		<li>Upgrades and support <strong>guaranteed</strong></li>
+		<li>Helpful<strong> live chat</strong> and <strong>support forums</strong></li>
+		<li>Access to all new plugins & themes</li>
+		<li>New feature development requests</li>
+		<li>Full access to WPMU Jobs</li>
+		<li>Comprehensive manuals & eBooks</li>
+		<li>It's like having your own personal developer!</li>
+	</ul>
+	</div>
+	<div style="margin-left:50px;clear:both;"><a href="https://premium.wpmudev.org/join/"><img title="Click Here To Find Out More..." src="http://premium.wpmudev.org/wp-content/themes/wp-wpmudev/images/promo.png" alt="Click here to find out more" height="179" width="848"></a></div>
+</div>
+
+	</div>
 	<?php
     }
     

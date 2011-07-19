@@ -15,6 +15,19 @@ WordPress Wiki Lite transforms your WordPress website into a fully functional wi
 = You can use Wiki lite to create... =
 * A WordPress based Wiki site
 * Multiple Wiki sites on a WordPress MultiSite install - so any user of your site can have their own Wiki.
+ 
+= Wiki Pro = 
+Wiki lite is a fully functional but limited version of our <a href='http://premium.wpmudev.org/project/wordpress-wiki'>full Wiki plugin</a>. 
+This lite version supports creating and editing of Wikis by users who can edit posts in your blog. Users can edit the Wiki from the frontend 
+as well as the Admin Dashboard. 
+ 
+Our full version includes many more features: 
+ 
+* **Allow anyone** to edit wikis from frontend 
+* **Allow anyone from the network** to edit wikis 
+* **Allow site users** to edit wikis 
+ 
+<a href='http://premium.wpmudev.org/project/wordpress-wiki'>**Upgrade to the full version now &raquo;**</a> 
 
 = How does it work... well, it's really easy. =
 
