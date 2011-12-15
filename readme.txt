@@ -91,6 +91,10 @@ Up the version to work with update plugin.
 
 == Changelog ==
 
+= 1.0.7 =
+* WordPress 3.3 compatibility
+* More minor improvements
+
 = 1.0.6 =
 * Remove update notifier
 * Widget fix
