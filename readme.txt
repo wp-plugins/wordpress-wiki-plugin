@@ -3,7 +3,7 @@ Contributors: WPMUDEV, mohanjith
 Author: WPMUDEV, mohanjith
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
-Tested up to: 3.2.1
+Tested up to: 3.3
 Stable tag: trunk
 
 Create a wiki as easily as adding a post
