@@ -4,7 +4,7 @@ Author: WPMUDEV, mohanjith
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.0.1
 Tested up to: 3.6.1
-Stable tag: tags/1.0.8.1
+Stable tag: tags/1.0.8.2
 
 Create a wiki as easily as adding a post
 
@@ -87,10 +87,12 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 4. Edit Wiki in Admin Dashboard 
 
 == Upgrade Notice ==
-* Improve History tab
-* Make easier to change wiki slugs
+* Fix slug issue
 
 == Changelog ==
+
+= 1.0.8.2 =
+* Fix slug issue
 
 = 1.0.8.1 =
 * Improve History tab
