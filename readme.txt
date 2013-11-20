@@ -88,11 +88,13 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 
 == Upgrade Notice ==
 * Preserve post status when editing in frontend
+* Preserve comment status when editing in frontend
 
 == Changelog ==
 
 = 1.0.8.3 =
 * Preserve post status when editing in frontend
+* Preserve comment status when editing in frontend
 
 = 1.0.8.2 =
 * Fix slug issue

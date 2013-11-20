@@ -890,7 +890,7 @@ class Wiki {
 	echo '<input type="hidden" name="post_status" id="wiki_post_status" value="'.$edit_post->post_status.'" />';
 	echo '<input type="hidden" name="visibility" id="wiki_visibility" value="'.$visibility.'" />';
 
-	echo '<input type="hidden" name="comment_status" id="comment_status" value="open" />';
+	echo '<input type="hidden" name="comment_status" id="comment_status" value="'.$edit_post->comment_status.'" />';
 	echo '<input type="hidden" name="action" id="wiki_action" value="editpost" />';
 	echo '<div><input type="text" name="post_title" id="wiki_title" value="'.$edit_post->post_title.'" class="incsub_wiki_title" size="30" /></div>';
 	echo  '<div>';
