@@ -94,6 +94,9 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 * Minor bugfixes and enhancements
 
 == Changelog ==
+= 1.1.0.1 = 
+* Fixed: unable to translate notification emails 
+
 = 1.1 =
 * Fixed: Better usability when restoring from front-end
 * Fixed: Front-end editor styles for WP 3.9
