@@ -3,7 +3,7 @@ Contributors: WPMUDEV
 Author: WPMUDEV
 Tags: wiki, buddypress, frontend editing
 Requires at least: 3.3
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: trunk
 
 Create a wiki as easily as adding a post
@@ -11,6 +11,8 @@ Create a wiki as easily as adding a post
 == Description ==
 
 WordPress Wiki Lite transforms your WordPress website into a fully functional wiki or add wiki pages to your WordPress blog.
+
+[youtube https://www.youtube.com/watch?v=hNwGOHA1014]
 
 = You can use Wiki lite to create... =
 * A WordPress based Wiki site
