@@ -3,7 +3,7 @@ Contributors: WPMUDEV
 Author: WPMUDEV
 Tags: Wiki, Wikis, BuddyPress, frontend editing, Documentation, Docs, Manual, Manuals, Document Management, Document Manager, Documents Manager, Documents, Organized Docs, Organized Documents, Instructions, Instruction, Guides, Instruction Guide, Instruction Guides, WordPress Wiki, Mediawiki, WordPress Wiki, WordPress Wikis
 Requires at least: 3.3
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: trunk
 
 Create a wiki as easily as adding a post
