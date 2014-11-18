@@ -94,6 +94,9 @@ We provide comprehensive and guaranteed support on the <a href='http://premium.w
 * Minor bugfixes and enhancements
 
 == Changelog ==
+= 1.1.0.3 = 
+* Fixed: Wiki Lite links to MarketPress rather than the Wiki project in settings
+
 = 1.1.0.2 = 
 * Fixed: Prev/next links don't show correct posts based upon Wiki settings
 
