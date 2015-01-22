@@ -3,7 +3,7 @@ Contributors: WPMUDEV
 Author: WPMUDEV
 Tags: Wiki, Wikis, Mediawiki, Frontend Editor, Knowledge Base, Manual, Document Manager, Organized Documents, Instruction, Guide, WordPress Wiki
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 
 Create a wiki as easily as adding a post
